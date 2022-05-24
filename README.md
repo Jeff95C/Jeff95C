@@ -1,4 +1,4 @@
-<img src="fotopres.png">
+<img src="FotoPortada.png">
 <h1>Software Programmer</h1> 
 Hello, I'm Jefferson Caicedo, programmer specialized in Python and Java. I like to discover shortcomings in what I do in order to continue growing personally and professionally.
 <br>
