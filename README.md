@@ -4,7 +4,7 @@ Hello, I'm Jefferson Caicedo, programmer specialized in Python and Java. I like 
 <br>
 <br>
 &#8226 👀 I’m interested in development, game development, deep learning, AI, process automation and domotics.  <br>
-&#8226 🌱 I’m currently learning data science, data structure, HTML/CSS. <br>
+&#8226 🌱 I’m currently learning data science, data structure, JAVA, HTML/CSS. <br>
 
 <!---
 jeffersoncaicedo/jeffersoncaicedo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
